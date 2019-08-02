@@ -1,0 +1,7 @@
+.text-area-container {
+  padding: 5px;
+}
+
+textarea:invalid {
+  border: 2px dashed red;
+}
